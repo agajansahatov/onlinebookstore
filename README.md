@@ -1,5 +1,5 @@
 # OnlineBookStore
-- My Graduation Thesis Project
+- My bachelor's degree Graduation Thesis Project
 - A Java Web Developement Project
 - User Login Credentials: (demo/demo)
 - Admin Login Credentials: (Admin/Admin)
