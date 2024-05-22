@@ -1,0 +1,6 @@
+/target/
+/build/
+.classpath
+.settings
+application.properties
+/src/main/resources/application.properties
